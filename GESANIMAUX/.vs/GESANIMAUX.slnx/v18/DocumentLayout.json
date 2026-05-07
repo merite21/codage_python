@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\frmanimaux.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:frmanimaux.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\frmanimaux.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:frmanimaux.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\frmprincipal.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:frmprincipal.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|c:\\users\\m\u00E9rite dilane a2f\\desktop\\gesnimaux\\gesanimaux\\gesanimaux.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F01F2D6-883C-8654-7E10-8CF26A4673E8}|GESANIMAUX.vbproj|solutionrelative:gesanimaux.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmprincipal.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.vb",
+              "RelativeDocumentMoniker": "Frmprincipal.vb",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.vb [Conception]",
+              "RelativeToolTip": "Frmprincipal.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T12:40:25.534Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmanimaux.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmanimaux.vb",
+              "RelativeDocumentMoniker": "Frmanimaux.vb",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmanimaux.vb [Conception]",
+              "RelativeToolTip": "Frmanimaux.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T13:13:58.537Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmprincipal.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.Designer.vb",
+              "RelativeDocumentMoniker": "Frmprincipal.Designer.vb",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.Designer.vb",
+              "RelativeToolTip": "Frmprincipal.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T13:28:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmanimaux.vb",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmanimaux.vb",
+              "RelativeDocumentMoniker": "Frmanimaux.vb",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmanimaux.vb",
+              "RelativeToolTip": "Frmanimaux.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T13:09:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frmprincipal.vb",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.vb",
+              "RelativeDocumentMoniker": "Frmprincipal.vb",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\Frmprincipal.vb",
+              "RelativeToolTip": "Frmprincipal.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T12:50:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GESANIMAUX.vbproj",
+              "DocumentMoniker": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\GESANIMAUX.vbproj",
+              "RelativeDocumentMoniker": "GESANIMAUX.vbproj",
+              "ToolTip": "C:\\Users\\M\u00E9rite Dilane A2F\\Desktop\\GESNIMAUX\\GESANIMAUX\\GESANIMAUX.vbproj",
+              "RelativeToolTip": "GESANIMAUX.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-12-03T12:55:07.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

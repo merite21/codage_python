@@ -1,0 +1,6 @@
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.Form1.resources
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.vbproj.GenerateResource.cache
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.AssemblyInfoInputs.cache
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.AssemblyInfo.vb
+C:\Users\Mérite Dilane A2F\Desktop\GESNIMAUX\EXERCICE\obj\Debug\net10.0-windows\EXERCICE.vbproj.CoreCompileInputs.cache
